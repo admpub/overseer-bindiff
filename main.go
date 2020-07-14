@@ -46,7 +46,7 @@ import (
 	"github.com/kr/binarydist"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
-	"github.com/tgulacsi/overseer-bindiff/fetcher"
+	"github.com/admpub/overseer-bindiff/fetcher"
 )
 
 const DefaultRSABits = 4096
